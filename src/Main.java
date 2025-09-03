@@ -1,10 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-
-
-        System.out.println("Fixed this.");
+        System.out.println("Listen to the truth");
         //no ;}
-        //you are very stinky
+        //I, Aeryn M. Kelly, is very stinky
+
     }
 }
